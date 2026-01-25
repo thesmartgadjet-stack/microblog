@@ -21,20 +21,24 @@ const { frontmatter } = Astro.props;
         <Image
           width={1280}
           height={720}
-          src={frontmatter.image.url}
-          alt={frontmatter.image.alt}
+          src={typeof frontmatter.image === 'string' ? frontmatter.image : frontmatter.image.url}
+          alt={typeof frontmatter.image === 'string' ? frontmatter.title : frontmatter.image.alt}
           class="object-cover object-center w-full aspect-12/7 rounded-xl mt-4"
         />
         <div class="flex flex-col justify-between mt-4 md:flex-row">
           <p class="text-xs text-zinc-500">
-            {frontmatter.pubDate.toString().slice(0, 10)} - Written by: {
+            {new Date(frontmatter.pubDate).toLocaleDateString("en-US", {
+                year: "numeric",
+                month: "short",
+                day: "numeric",
+              })} - Written by: {
               frontmatter.author
             }
           </p>
-          <div class="flex gap-3">
+          <div class="flex gap-3 text-accent-700">
             {
-              frontmatter.tags.map((tag) => (
-                <span class="hover:text-blue-500 text-xs font-medium text-base-600">
+              (frontmatter.tags || (frontmatter.category ? [frontmatter.category] : [])).map((tag) => (
+                <span class="hover:text-accent-500 text-xs font-medium">
                   <a href={`/tags/${tag}`}>{tag}</a>
                 </span>
               ))
