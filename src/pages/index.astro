@@ -13,17 +13,24 @@ const sortedPosts = allPosts.sort(
 
 <BaseLayout>
   <section>
-    <div class="py-24">
-      <h1
-        class="text-4xl text-balance font-medium font-display text-base-900 max-w-xl"
-      >
-        Your guide to entryway organization, shoe storage, and hallway design for small spaces
-      </h1>
-      <div class="flex flex-wrap gap-3 mt-8">
+    <div class="py-20 lg:py-32">
+      <div class="max-w-2xl">
+        <h1
+          class="text-5xl lg:text-6xl font-display font-medium text-base-900 leading-[1.1]"
+        >
+          Your guide to <span class="italic text-accent-700">entryway</span> organization & hallway design.
+        </h1>
+        <p class="mt-6 text-lg text-base-600 leading-relaxed max-w-xl">
+          Discover curated storage solutions and design inspiration to transform your home's first impression into a functional masterpiece.
+        </p>
+      </div>
+      
+      <div class="flex flex-wrap gap-2 mt-12 pb-12 border-b border-base-200">
+        <span class="text-[10px] uppercase tracking-widest text-base-400 font-bold mr-2 self-center">Explore:</span>
         {
           tags.map((tag) => (
             <a
-              class=" hover:text-blue-500 text-xs font-medium text-base-600"
+              class="px-4 py-1.5 rounded-full bg-white border border-base-200 text-xs font-medium text-base-600 hover:border-accent-400 hover:text-accent-700 hover:shadow-sm transition-all"
               href={`/tags/${tag}`}
             >
               {tag}
@@ -31,7 +38,7 @@ const sortedPosts = allPosts.sort(
           ))
         }
       </div>
-      <div class="grid grid-cols-1 mt-4 gap-8 gap-y-24 sm:grid-cols-2">
+      <div class="grid grid-cols-1 mt-16 gap-x-12 gap-y-20 sm:grid-cols-2">
         {
           sortedPosts.map((post) => (
             <BlogEntries

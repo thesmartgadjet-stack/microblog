@@ -1,14 +1,19 @@
-<footer>
-  <div class="py-12">
-    <p
-      class="text-xs text-base-500 text-balance text-center"
-      x-data="{ year: new Date().getFullYear() }"
-    >
-      © <span x-text="year"></span> Lexington Themes. All rights reserved. <a
-        class="text-base-900 underline hover:text-accent-400"
-        href="https://lexingtonthemes.com/">Lexington Themes</a
-      > is not affiliated with Astro or Tailwind Labs team, nor is it endorsed by
-      or sponsored by these ones.
-    </p>
+<footer class="mt-auto border-t border-base-200">
+  <div class="py-16">
+    <div class="flex flex-col md:flex-row justify-between items-center gap-8">
+      <p class="text-[11px] uppercase tracking-widest text-base-500 font-medium">
+        © {new Date().getFullYear()} Entryway Essentials. All rights reserved.
+      </p>
+      <div class="flex gap-8">
+        <a href="/" class="text-[11px] uppercase tracking-widest text-base-500 hover:text-accent-700 font-bold transition-colors">Journal</a>
+        <a href="/tags" class="text-[11px] uppercase tracking-widest text-base-500 hover:text-accent-700 font-bold transition-colors">Categories</a>
+        <a href="/rss.xml" class="text-[11px] uppercase tracking-widest text-base-500 hover:text-accent-700 font-bold transition-colors">RSS Feed</a>
+      </div>
+    </div>
+    <div class="mt-12 text-center">
+      <p class="text-[10px] text-base-400 max-w-lg mx-auto leading-relaxed">
+        Curating the finest in functional entryway aesthetics. Our mission is to help you create a home that welcomes you back with clarity and style.
+      </p>
+    </div>
   </div>
 </footer>

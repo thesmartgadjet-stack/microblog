@@ -1,35 +1,43 @@
-<section class="bg-base-50 p-8 rounded-xl lg:p-20">
-  <h2
-    id="newsletter-heading"
-    class="text-2xl text-balance font-medium font-display text-base-900 text-center"
-  >
-    Join us to get our news in your inbox.
-  </h2>
+<section class="bg-accent-50 border border-accent-100 p-8 rounded-3xl lg:p-16 my-24 shadow-sm">
+  <div class="max-w-xl mx-auto text-center">
+    <h2
+      id="newsletter-heading"
+      class="text-3xl font-display font-semibold text-base-900"
+    >
+      Sign up for <span class="italic text-accent-700 underline decoration-accent-200 underline-offset-4">curated</span> design tips.
+    </h2>
+    <p class="mt-4 text-sm text-base-600 leading-relaxed italic">
+      Join 5,000+ readers and receive our weekly guide on organizational mastery and interior aesthetics.
+    </p>
+  </div>
 
   <form
     action=""
     method="post"
-    class="mt-8"
+    class="mt-10"
     aria-label="Newsletter signup form"
   >
-    <div class="flex flex-col w-full max-w-md mx-auto gap-3 sm:flex-row">
+    <div class="flex flex-col w-full max-w-sm mx-auto gap-2 sm:flex-row">
       <label for="email" class="sr-only">Email address</label>
       <input
         id="email"
         name="email"
         type="email"
-        class="block w-full h-10 px-4 py-2 text-sm font-medium rounded-full border-transparent font-spline text-base-900 placeholder-base-400 focus:border-base-800 focus:outline-none focus:ring-2 focus:ring-base-700/50 bg-white disabled:opacity-50"
-        placeholder="Enter your email..."
+        class="block w-full h-12 px-6 py-2 text-sm font-medium rounded-full border border-accent-200 font-sans text-base-900 placeholder-base-400 focus:border-accent-600 focus:outline-none focus:ring-4 focus:ring-accent-600/5 bg-white transition-all shadow-inner"
+        placeholder="your@email.com"
         required
         aria-required="true"
       />
 
       <button
         type="submit"
-        class="flex items-center justify-center h-10 px-4 py-2 text-sm text-white bg-base-900 rounded-full duration-300 focus:ring-2 focus:ring-offset-2 focus:ring-base-900 hover:bg-base-800"
+        class="flex items-center justify-center h-12 px-8 py-2 text-sm font-semibold text-white bg-accent-700 rounded-full duration-300 shadow-md hover:bg-accent-800 hover:shadow-lg active:scale-95 transition-all whitespace-nowrap"
       >
         Subscribe
       </button>
     </div>
+    <p class="mt-4 text-[10px] text-center text-base-400 uppercase tracking-widest font-medium">
+      No spam. Only inspiration. Unsubscribe anytime.
+    </p>
   </form>
 </section>
