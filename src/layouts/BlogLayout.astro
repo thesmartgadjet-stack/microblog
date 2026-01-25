@@ -8,13 +8,13 @@ const { frontmatter } = Astro.props;
   <section>
     <div class="py-24">
       <div class="lg:text-center">
-        <div class="max-w-xl mx-auto">
+        <div class="max-w-3xl mx-auto">
           <h1
-            class="text-4xl text-balance font-medium font-display text-base-900"
+            class="text-3xl md:text-5xl text-balance font-medium font-display text-base-900 leading-tight"
           >
             {frontmatter.title}
           </h1>
-          <p class="max-w-2xl mx-auto mt-4 text-zinc-500 text-sm text-balance">
+          <p class="max-w-2xl mx-auto mt-6 text-base-500 text-lg md:text-xl text-balance leading-relaxed">
             <em>{frontmatter.description}</em>
           </p>
         </div>
@@ -47,7 +47,7 @@ const { frontmatter } = Astro.props;
         </div>
       </div>
 
-      <div class="prose prose-sm max-w-md mt-12 mx-auto">
+      <div class="prose prose-base md:prose-lg prose-base-600 max-w-3xl mt-12 mx-auto px-4 sm:px-0">
         <slot />
       </div>
     </div>
