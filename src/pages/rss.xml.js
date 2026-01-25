@@ -4,8 +4,8 @@ import { getCollection } from "astro:content";
 export async function get() {
   const posts = await getCollection('posts');
   return rss({
-    title: 'Astro Learner | Blog',
-    description: 'My journey learning Astro',
+    title: 'Entryway Essentials | Shoe Storage & Hallway Design',
+    description: 'A high-performance SEO blog focusing on entryway organization, shoe storage solutions, and hallway design for small spaces.',
     site: 'https://my-blog-site.netlify.app',
     items: posts.map((post) => ({
       title: post.data.title,

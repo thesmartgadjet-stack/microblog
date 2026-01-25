@@ -1,4 +1,4 @@
-# Astro & Tailwind CSS Starter Kit by lexingtonthemes.com
+# Entryway Essentials - Astro & Tailwind CSS Blog
 # License
 
 This template is open-source software licensed under the [GPL-3.0 license](https://opensource.org/licenses/GPL-3.0). Feel free to fork, modify, and use it in your projects.# License
