@@ -2,11 +2,13 @@
 import BaseHead from "@/components/BaseHead.astro";
 import Navigation from "@/components/global/Navigation.astro";
 import Footer from "@/components/global/Footer.astro";
+
+const { title, description, image, canonicalURL } = Astro.props;
 ---
 
 <html lang="en">
   <head>
-    <BaseHead />
+    <BaseHead title={title} description={description} image={image} canonicalURL={canonicalURL} />
   </head>
   <body class="flex flex-col max-w-4xl min-h-screen px-6 sm:px-8 lg:px-12 mx-auto bg-base-50 text-base-900 antialiased">
     <Navigation />

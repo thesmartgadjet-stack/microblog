@@ -2,9 +2,40 @@
 import { Image } from "astro:assets";
 import BaseLayout from "@/layouts/BaseLayout.astro";
 const { frontmatter } = Astro.props;
+const postImage = typeof frontmatter.image === 'string' ? frontmatter.image : frontmatter.image.url;
+
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": frontmatter.title,
+  "description": frontmatter.description,
+  "image": new URL(postImage, Astro.site || Astro.url.origin).href,
+  "datePublished": frontmatter.pubDate,
+  "author": {
+    "@type": "Person",
+    "name": frontmatter.author
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": Astro.url.href
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Entryway Essentials",
+    "logo": {
+      "@type": "ImageObject",
+      "url": new URL("/logo.png", Astro.site || Astro.url.origin).href // Fallback logo
+    }
+  }
+};
 ---
 
-<BaseLayout>
+<BaseLayout 
+  title={frontmatter.title} 
+  description={frontmatter.description} 
+  image={postImage}
+>
+  <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
   <section>
     <div class="py-24">
       <div class="lg:text-center">

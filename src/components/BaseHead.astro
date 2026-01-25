@@ -1,22 +1,31 @@
 ---
 import "../styles/global.css";
 import { AstroSeo } from "@astrolib/seo";
+
+const {
+  title = "Entryway Essentials | Shoe Storage & Hallway Design",
+  description = "A high-performance SEO blog focusing on entryway organization, shoe storage solutions, and hallway design for small spaces.",
+  image = "/og-image.jpg",
+  canonicalURL = Astro.url.href,
+} = Astro.props;
+
+const siteTitle = title === "Entryway Essentials | Shoe Storage & Hallway Design" ? title : `${title} | Entryway Essentials`;
 ---
 
 <AstroSeo
-  title="Entryway Essentials | Shoe Storage & Hallway Design"
-  description="A high-performance SEO blog focusing on entryway organization, shoe storage solutions, and hallway design for small spaces."
-  canonical="https://yoursite.com/current-page"
+  title={siteTitle}
+  description={description}
+  canonical={canonicalURL}
   openGraph={{
-    url: "https://yoursite.com/current-page",
-    title: "Entryway Essentials | Shoe Storage & Hallway Design",
-    description: "A high-performance SEO blog focusing on entryway organization, shoe storage solutions, and hallway design for small spaces.",
+    url: canonicalURL,
+    title: siteTitle,
+    description: description,
     images: [
       {
-        url: "https://yoursite.com/og-image.jpg",
+        url: new URL(image, Astro.site || Astro.url.origin).href,
         width: 1200,
         height: 630,
-        alt: "Open Graph Image Alt",
+        alt: title,
         type: "image/jpeg",
       },
     ],
@@ -35,12 +44,9 @@ import { AstroSeo } from "@astrolib/seo";
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
 <!-- Basic Meta Tags -->
-<title>Entryway Essentials | Shoe Storage & Hallway Design</title>
-<meta
-  name="description"
-  content="A high-performance SEO blog focusing on entryway organization, shoe storage solutions, and hallway design for small spaces."
-/>
-<meta name="keywords" content="entryway organization, shoe storage, hallway design, small spaces, mudroom ideas, entryway furniture, shoe rack, coat storage" />
+<title>{siteTitle}</title>
+<meta name="description" content={description} />
+<meta name="keywords" content="entryway organization, shoe storage, hallway design, hall tree guide, mudroom lockers, small space storage, furniture measurements, woodworking DIY, entryway charm, home organization, coat rack ideas" />
 <meta name="author" content="Entryway Essentials" />
 
 <!-- Favicons -->
@@ -59,32 +65,32 @@ import { AstroSeo } from "@astrolib/seo";
 
 <!-- Open Graph / Facebook -->
 <meta property="og:type" content="website" />
-<meta property="og:url" content="https://www.yourwebsite.com/" />
-<meta property="og:title" content="Entryway Essentials | Shoe Storage & Hallway Design" />
+<meta property="og:url" content={canonicalURL} />
+<meta property="og:title" content={siteTitle} />
 <meta
   property="og:description"
-  content="A high-performance SEO blog focusing on entryway organization, shoe storage solutions, and hallway design for small spaces."
+  content={description}
 />
 <meta
   property="og:image"
-  content="https://www.yourwebsite.com/path/to/image.jpg"
+  content={new URL(image, Astro.site || Astro.url.origin).href}
 />
 
 <!-- Twitter -->
 <meta property="twitter:card" content="summary_large_image" />
-<meta property="twitter:url" content="https://www.yourwebsite.com/" />
-<meta property="twitter:title" content="Entryway Essentials | Shoe Storage & Hallway Design" />
+<meta property="twitter:url" content={canonicalURL} />
+<meta property="twitter:title" content={siteTitle} />
 <meta
   property="twitter:description"
-  content="A high-performance SEO blog focusing on entryway organization, shoe storage solutions, and hallway design for small spaces."
+  content={description}
 />
 <meta
   property="twitter:image"
-  content="https://www.yourwebsite.com/path/to/image.jpg"
+  content={new URL(image, Astro.site || Astro.url.origin).href}
 />
 
 <!-- Canonical URL -->
-<link rel="canonical" href="https://www.yourwebsite.com/" />
+<link rel="canonical" href={canonicalURL} />
 
 <!-- Additional SEO -->
 <meta name="robots" content="index, follow" />
