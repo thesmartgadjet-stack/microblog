@@ -52,7 +52,7 @@ Metal Studs: Common in high-rise condos, these require toggle bolts rather than 
 
 Assessment is the first step of the narrative. Walk to your hall tree. Look at the baseboards—are they pushing the unit away from the wall? Look at the top—is it level? Understanding the relationship between the furniture and the wall determines which solution you choose.
 
-[IMAGEPLACEHOLDER1]
+![Anatomy of a wall showing studs and drywall](https://picsum.photos/seed/wall-anatomy-safety/800/600)
 
 The Hardware: A Curator’s Guide to Stability
 
@@ -72,7 +72,7 @@ Installing the Hangman feels less like DIY and more like construction. The brack
 What sets this apart is the cotter pin design. Once the steel cable connects the two brackets, you can slide a pin in to lock it, but you can also easily remove it if you need to pull the unit out for cleaning or painting. There is no cutting of straps required. It feels industrial, secure, and permanent. It requires finding a stud, but the payoff is a connection that feels as solid as the foundation of the house itself.
 
 Hangman Furniture Anti-Tip Kit (TK-400)
-[AFFILIATE1]
+[View Hangman Anti-Tip Kit on Amazon](https://www.amazon.com/s?k=Hangman+Furniture+Anti-Tip+Kit+TK-400)
 
 2. The Preservationist’s Choice: Qdos Zero-Screw Furniture Anti-Tip Kit
 
@@ -88,7 +88,7 @@ The installation is whisper-quiet. No buzzing drills, no drywall dust. You clean
 While I would perhaps hesitate to use this on a 500-pound antique armoire, for modern, flat-pack mudroom lockers or standard hall trees, it is exceptional. It holds strong, yet can be removed (with some effort and a putty knife) without leaving the crater that a toggle bolt leaves. It bridges the gap between safety and architectural preservation.
 
 Qdos Zero-Screw Furniture Anti-Tip Kit
-[AFFILIATE2]
+[View Qdos Zero-Screw Kit on Amazon](https://www.amazon.com/s?k=Qdos+Zero-Screw+Furniture+Anti-Tip+Kit)
 
 3. The Versatile Standard: Safety 1st Furniture Wall Straps
 
@@ -102,9 +102,9 @@ These straps use a triple-stitch design and durable nylon. The installation is t
 What makes these particularly useful for mudrooms is their flexibility. Hall trees often have backs made of thin particleboard that cannot hold a screw. With the Safety 1st straps, you can mount the furniture-side bracket to the top solid wood frame of the unit, or even the side, and angle the strap to the wall stud. They allow for imperfect alignment. If your stud is two inches to the left of the furniture's center, the flexible strap accommodates that variance in a way a rigid metal bracket cannot. They are the utilitarian choice for the pragmatist.
 
 Safety 1st Furniture Wall Straps (2-Pack)
-[AFFILIATE3]
+[View Safety 1st Wall Straps on Amazon](https://www.amazon.com/s?k=Safety+1st+Furniture+Wall+Straps)
 
-[IMAGEPLACEHOLDER2]
+![Professional installation of furniture safety anchors](https://picsum.photos/seed/furniture-safety-anchor-install/800/600)
 
 The Installation Narrative: A Step-by-Step Guide
 
@@ -145,7 +145,7 @@ If the unit is shorter, mount the brackets on the back of the unit, a few inches
 
 For open-backed lockers or wire racks, concealment is harder. In these cases, embrace the hardware. Paint the metal brackets with a dab of paint that matches your wall color. Use a fabric marker to dye white nylon straps to match the dark metal of the rack. Camouflage is just as effective as concealment.
 
-[IMAGEPLACEHOLDER3]
+![A beautifully organized and safe entryway with a hall tree](https://picsum.photos/seed/safe-entryway-decor/800/600)
 
 Maintenance: The Forgotten Ritual
 
