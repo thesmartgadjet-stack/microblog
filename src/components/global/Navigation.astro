@@ -1,5 +1,5 @@
 <div
-  x-data="{ open: false }"
+  id="navigation-container"
   class="relative flex flex-col w-full mx-auto rounded-xl md:rounded-full md:items-center md:justify-between md:flex-row"
 >
   <div class="flex flex-row items-center justify-between py-2 md:justify-start">
@@ -8,24 +8,26 @@
       <span class="bg-clip-text text-transparent bg-gradient-to-r from-accent-600 to-secondary-600">Entryway Essentials</span>
     </a>
     <button
-      @click="open = !open"
+      id="menu-button"
+      aria-label="Toggle menu"
       class="inline-flex items-center justify-center p-2 text-base-900 hover:text-accent-600 focus:outline-none focus:text-base-900 md:hidden"
     >
       <svg
+        id="menu-icon"
         class="w-6 h-6"
         stroke="currentColor"
         fill="none"
         viewBox="0 0 24 24"
       >
         <path
-          :class="{'hidden': open, 'inline-flex': !open }"
+          id="icon-open"
           class="inline-flex"
           stroke-linecap="round"
           stroke-linejoin="round"
           stroke-width="2"
           d="M4 6h16M4 12h16M4 18h16"></path>
         <path
-          :class="{'hidden': !open, 'inline-flex': open }"
+          id="icon-close"
           class="hidden"
           stroke-linecap="round"
           stroke-linejoin="round"
@@ -35,7 +37,7 @@
     </button>
   </div>
   <nav
-    :class="{'flex': open, 'hidden': !open}"
+    id="mobile-menu"
     class="flex-col justify-center flex-grow hidden py-12 md:py-0 md:flex md:items-end md:flex-row"
   >
     <div
@@ -63,3 +65,33 @@
     </div>
   </nav>
 </div>
+
+<script is:inline>
+  document.addEventListener('DOMContentLoaded', () => {
+    const button = document.getElementById('menu-button');
+    const menu = document.getElementById('mobile-menu');
+    const iconOpen = document.getElementById('icon-open');
+    const iconClose = document.getElementById('icon-close');
+    
+    if (button && menu) {
+      button.addEventListener('click', () => {
+        const isOpen = !menu.classList.contains('hidden');
+        if (isOpen) {
+          menu.classList.add('hidden');
+          menu.classList.remove('flex');
+          iconOpen.classList.remove('hidden');
+          iconOpen.classList.add('inline-flex');
+          iconClose.classList.add('hidden');
+          iconClose.classList.remove('inline-flex');
+        } else {
+          menu.classList.remove('hidden');
+          menu.classList.add('flex');
+          iconOpen.classList.add('hidden');
+          iconOpen.classList.remove('inline-flex');
+          iconClose.classList.remove('hidden');
+          iconClose.classList.add('inline-flex');
+        }
+      });
+    }
+  });
+</script>

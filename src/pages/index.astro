@@ -40,7 +40,7 @@ const sortedPosts = allPosts.sort(
       </div>
       <div class="grid grid-cols-1 mt-16 gap-x-12 gap-y-20 sm:grid-cols-2">
         {
-          sortedPosts.map((post) => (
+          sortedPosts.map((post, index) => (
             <BlogEntries
               url={"/posts/" + post.slug}
               alt={post.data.title}
@@ -49,6 +49,7 @@ const sortedPosts = allPosts.sort(
               author={post.data.author}
               image={typeof post.data.image === 'string' ? post.data.image : post.data.image.url}
               description={post.data.description}
+              loading={index < 2 ? "eager" : "lazy"}
               pubDate={new Date(post.data.pubDate).toLocaleDateString("en-US", {
                 year: "numeric",
                 month: "short",

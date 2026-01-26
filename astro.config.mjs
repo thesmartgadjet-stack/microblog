@@ -6,7 +6,11 @@ import mdx from "@astrojs/mdx";
 
 // https://astro.build/config
 export default defineConfig({
-   vite: {
+  site: 'https://www.entrywaystorage.com',
+  build: {
+    inlineStylesheets: 'always',
+  },
+  vite: {
     plugins: [tailwindcss()],
   },
   markdown: {
@@ -20,6 +24,5 @@ export default defineConfig({
     skipInline: false,
     drafts: true
   },
-  site: 'https://yourwebsite.com',
   integrations: [sitemap(), mdx()]
 });

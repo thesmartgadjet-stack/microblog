@@ -1,6 +1,6 @@
 ---
 import { Image } from "astro:assets";
-const { title, url, description, pubDate, author, image, tags } = Astro.props;
+const { title, url, description, pubDate, author, image, tags, loading = "lazy" } = Astro.props;
 ---
 
 <article class="flex flex-col flex-1 h-full group">
@@ -11,6 +11,8 @@ const { title, url, description, pubDate, author, image, tags } = Astro.props;
         height={630}
         src={image}
         alt={title}
+        loading={loading}
+        decoding="async"
         class="object-cover w-full h-full bg-center aspect-12/8 shadow-sm"
       />
     </div>

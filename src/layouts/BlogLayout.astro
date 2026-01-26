@@ -55,6 +55,8 @@ const jsonLd = {
           height={720}
           src={typeof frontmatter.image === 'string' ? frontmatter.image : frontmatter.image.url}
           alt={typeof frontmatter.image === 'string' ? frontmatter.title : frontmatter.image.alt}
+          loading="eager"
+          decoding="async"
           class="object-cover object-center w-full aspect-12/7 rounded-xl mt-4"
         />
         <div class="flex flex-col justify-between mt-4 md:flex-row">

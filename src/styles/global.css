@@ -52,17 +52,6 @@
   scroll-behavior: smooth;
 }
 
-@supports (font-variation-settings: normal) {
-  :root {
-    font-family: "InterVariable", sans-serif;
-  }
-}
-
-/* Smooth Transitions */
-* {
-  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
-}
-
 /* Code Syntax Highlighting - Elegant Theme */
 :root {
   --astro-code-color-text: #2d3748;
