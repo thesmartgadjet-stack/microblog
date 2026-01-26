@@ -6,7 +6,7 @@
   "description": "Secure your home with essential safety tips for hall trees and mudroom lockers. Discover top-rated furniture anchors to prevent dangerous tip-overs today.",
   "category": "Home Safety & Organization",
   "author": "NativeWriter Expert",
-  "image": "https://picsum.photos/seed/essential-safety-tips_-securing-your-hall-tree-and-mudroom-lockers-to-the-wall (1)/1200/630",
+  "image": "/images/blog/Essential Safety 1.079Z.png",
   "tags": [
     "child safety",
     "furniture anchors",
@@ -52,7 +52,7 @@ Metal Studs: Common in high-rise condos, these require toggle bolts rather than 
 
 Assessment is the first step of the narrative. Walk to your hall tree. Look at the baseboards—are they pushing the unit away from the wall? Look at the top—is it level? Understanding the relationship between the furniture and the wall determines which solution you choose.
 
-![Anatomy of a wall showing studs and drywall](https://picsum.photos/seed/wall-anatomy-safety/800/600)
+![Anatomy of a wall showing studs and drywall](/images/blog/Essential Safety 2.107Z.png)
 
 The Hardware: A Curator’s Guide to Stability
 
@@ -104,7 +104,7 @@ What makes these particularly useful for mudrooms is their flexibility. Hall tre
 Safety 1st Furniture Wall Straps (2-Pack)
 [View Safety 1st Wall Straps on Amazon](https://www.amazon.com/s?k=Safety+1st+Furniture+Wall+Straps)
 
-![Professional installation of furniture safety anchors](https://picsum.photos/seed/furniture-safety-anchor-install/800/600)
+![Professional installation of furniture safety anchors](/images/blog/Essential Safety 3.101Z.png)
 
 The Installation Narrative: A Step-by-Step Guide
 
@@ -145,7 +145,7 @@ If the unit is shorter, mount the brackets on the back of the unit, a few inches
 
 For open-backed lockers or wire racks, concealment is harder. In these cases, embrace the hardware. Paint the metal brackets with a dab of paint that matches your wall color. Use a fabric marker to dye white nylon straps to match the dark metal of the rack. Camouflage is just as effective as concealment.
 
-![A beautifully organized and safe entryway with a hall tree](https://picsum.photos/seed/safe-entryway-decor/800/600)
+![A beautifully organized and safe entryway with a hall tree](/images/blog/Essential Safety 4.209Z.png)
 
 Maintenance: The Forgotten Ritual
 
