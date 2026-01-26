@@ -5,7 +5,7 @@ pubDate: "Thu, 22 Jan 2026 11:30:53 GMT"
 description: "A detailed guide about Beyond the Bench: Creative Seating Options for Hall Trees and Mudroom Lockers"
 category: "Entryway"
 author: "ExpertWriter"
-image: "https://picsum.photos/seed/beyond-the-bench_-creative-seating-options-for-hall-trees-and-mudroom-lockers/800/600"
+image: "/images/blog/creative_mudroom_seating.png"
 ---
 # Beyond the Bench: Creative Seating Options for Hall Trees and Mudroom Lockers
 

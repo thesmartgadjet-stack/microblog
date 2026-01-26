@@ -5,7 +5,7 @@ pubDate: "Thu, 22 Jan 2026 09:40:37 GMT"
 description: "A detailed guide about Before You Buy: 10 Critical Measurements for Placing a Hall Tree in Your Entryway"
 category: "Entryway"
 author: "ExpertWriter"
-image: "https://picsum.photos/seed/before-you-buy_-10-critical-measurements-for-placing-a-hall-tree-in-your-entryway/800/600"
+image: "/images/blog/hall_tree_measurements.png"
 ---
 # Before You Buy: 10 Critical Measurements for Placing a Hall Tree in Your Entryway
 

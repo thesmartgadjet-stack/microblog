@@ -5,7 +5,7 @@ pubDate: "Thu, 22 Jan 2026 09:08:13 GMT"
 description: "A detailed guide about 7 Stunning Farmhouse Hall Trees That Define Rustic Entryway Charm"
 category: "Entryway"
 author: "ExpertWriter"
-image: "https://picsum.photos/seed/7-stunning-farmhouse-hall-trees-that-define-rustic-entryway-charm/800/600"
+image: "/images/blog/farmhouse_hall_trees.png"
 ---
 # 7 Stunning Farmhouse Hall Trees That Define Rustic Entryway Charm
 
