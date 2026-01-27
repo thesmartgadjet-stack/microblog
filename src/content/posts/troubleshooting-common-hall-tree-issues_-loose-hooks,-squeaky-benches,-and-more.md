@@ -1,19 +1,17 @@
 ---
-{
-  "title": "Troubleshooting Common Hall Tree Issues: Loose Hooks, Squeaky Benches, and More",
-  "slug": "troubleshooting-common-hall-tree-issues-loose-hooks-squeaky-benches-and-more",
-  "pubDate": "2026-01-26",
-  "description": "Stop hall tree wobbles and squeaks! Discover easy fixes for loose hooks and benches, plus top-rated upgrades to organize your entryway for good.",
-  "category": "Home Maintenance",
-  "author": "NativeWriter Expert",
-  "image": "https://picsum.photos/seed/troubleshooting-common-hall-tree-issues_-loose-hooks,-squeaky-benches,-and-more/1200/630",
-  "tags": [
-    "furniture repair",
-    "entryway organization",
-    "hall tree",
-    "DIY home"
-  ]
-}
+title: "Troubleshooting Common Hall Tree Issues: Loose Hooks, Squeaky Benches, and More"
+slug: troubleshooting-common-hall-tree-issues-loose-hooks-squeaky-benches-and-more
+pubDate: 2026-01-26
+description: "Stop hall tree wobbles and squeaks! Discover easy fixes for loose hooks and benches, plus top-rated upgrades to organize your entryway for good."
+category: "Home Maintenance"
+author: "NativeWriter Expert"
+image: "https://picsum.photos/seed/troubleshooting-common-hall-tree-issues_-loose-hooks,-squeaky-benches,-and-more/1200/630"
+tags: 
+  - "Hall Tree Repair"
+  - "DIY Furniture Fixes"
+  - "Home Maintenance"
+  - "Entryway Organization"
+  - "Furniture Care"
 ---
 # Troubleshooting Common Hall Tree Issues: Loose Hooks, Squeaky Benches, and More
 
