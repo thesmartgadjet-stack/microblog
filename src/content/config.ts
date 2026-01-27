@@ -15,6 +15,8 @@ const postsCollection = defineCollection({
       ]),
       tags: z.array(z.string()).optional().default([]),
       category: z.string().optional(),
+      keywords: z.array(z.string()).optional(),
+      canonical: z.string().optional(),
     }),
 });
 export const collections = {

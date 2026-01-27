@@ -1,4 +1,3 @@
-```markdown
 ---
 title: What is a Hall Tree? Defining the Essential Entryway Organizer
 slug: vasagle-hall-tree-with-bench-and-shoe-storage
@@ -7,7 +6,15 @@ description: Discover how the VASAGLE Hall Tree can transform your chaotic entry
 category: Entryway
 author: ExpertWriter
 image: /images/blog/vasagle-hall-tree-with-bench-and-shoe-storage-1.webp
-keywords: VASAGLE Hall Tree, entryway organizer, industrial coat rack, shoe bench storage, mudroom furniture, hall tree review, entryway storage solutions, multifunctional furniture
+keywords: 
+  - VASAGLE Hall Tree
+  - entryway organizer
+  - industrial coat rack
+  - shoe bench storage
+  - mudroom furniture
+  - hall tree review
+  - entryway storage solutions
+  - multifunctional furniture
 canonical: https://example.com/blog/vasagle-hall-tree-with-bench-and-shoe-storage
 ---
 
