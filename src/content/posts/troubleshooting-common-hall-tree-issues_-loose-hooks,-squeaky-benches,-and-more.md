@@ -51,7 +51,7 @@ For fixed benches, the squeak indicates movement. If tightening the bolts (as me
 
 If the sound comes from the wood itself flexing—common in drier climates where wood shrinks—you may need to reinforce the joints. Adding a small L-bracket underneath the seat, hidden from view, can stop the flex that causes the noise.
 
-[IMAGEPLACEHOLDER1]
+![Quiet the squeak by reinforcing joints or applying wax](/images/blog/hall_tree_bench_repair.png)
 
 The cosmetic Decline: Erasure and Restoration
 
@@ -84,7 +84,7 @@ Drill the hole slightly larger and tap in a plastic wall anchor, the kind you’
 3. The Through-Bolt (The Master Carpenter):
 If the wood is thin or particle board, screws will always eventually fail. The permanent solution is to drill all the way through the backboard. Instead of a wood screw, use a machine bolt and a nut. Place a washer on the back side of the board. Now, the hook isn't holding onto the wood threads; it's clamping the board between the hook and the washer. It will never come loose again.
 
-[IMAGEPLACEHOLDER2]
+![Repairing a loose hook using the toothpick and glue method](/images/blog/hall_tree_hook_repair.png)
 
 Load Management and External Reinforcement
 
@@ -116,7 +116,7 @@ Remove the drawer and inspect the runners. If they are wood, sand them down ligh
 
 If the drawer uses metal slides and is sticking, check for debris in the track or a bent slide. A blast of compressed air followed by a silicone spray usually restores the glide.
 
-[IMAGEPLACEHOLDER3]
+![Sanding drawer runners to prevent sticking](/images/blog/hall_tree_drawer_maintenance.png)
 
 Preventative Maintenance: The Sunday Ritual
 
