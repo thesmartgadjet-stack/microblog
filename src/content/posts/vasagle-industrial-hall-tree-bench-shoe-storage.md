@@ -1,4 +1,3 @@
-```markdown
 ---
 title: "Industrial Chic Mudroom Lockers: Metal, Wood, and Functionality"
 slug: vasagle-industrial-hall-tree-bench-shoe-storage
@@ -16,7 +15,7 @@ keywords:
   - metal and wood furniture
   - small space coat rack
   - industrial chic decor
-canonical: https://example.com/blog/vasagle-industrial-hall-tree-bench-shoe-storage
+canonical: /blog/vasagle-industrial-hall-tree-bench-shoe-storage
 ---
 
 # Industrial Chic Mudroom Lockers: Metal, Wood, and Functionality
@@ -194,4 +193,3 @@ If you are ready to stop tripping over shoes and start enjoying a welcoming, org
     Get the VASAGLE Hall Tree on Amazon
   </a>
 </div>
-```

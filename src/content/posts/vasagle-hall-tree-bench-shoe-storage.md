@@ -1,4 +1,3 @@
-```markdown
 ---
 title: Rental-Friendly Entryway Solutions: Freestanding Hall Trees
 slug: vasagle-hall-tree-bench-shoe-storage
@@ -16,7 +15,7 @@ keywords:
   - Freestanding mudroom
   - Hallway organizer
   - Entryway furniture ideas
-canonical: https://example.com/blog/vasagle-hall-tree-bench-shoe-storage
+canonical: /blog/vasagle-hall-tree-bench-shoe-storage
 ---
 
 ## Introduction: The Battle for a Tidy Entrance
@@ -228,4 +227,3 @@ If you are tired of tripping over shoes when you enter your home, or if you are 
     Get the VASAGLE Hall Tree Now
   </a>
 </div>
-```
