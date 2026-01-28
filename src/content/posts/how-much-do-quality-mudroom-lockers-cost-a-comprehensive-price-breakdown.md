@@ -1,10 +1,11 @@
 ---
 title: "How Much Do Quality Mudroom Lockers Cost? A Comprehensive Price Breakdown"
-pubDate: 2026-01-28
+slug: "how-much-do-quality-mudroom-lockers-cost-a-comprehensive-price-breakdown"
+pubDate: "2026-01-28"
 description: Discover the real cost of mudroom lockers, from DIY kits to custom cabinetry. We break down materials, labor, and hidden fees to help you budget effectively.
 author: "Content Bot"
 image:
-  url: "/images/blog/how-much-do-quality-mudroom-lockers-cost-a-comprehensive-price-breakdown.png"
+  url: "../../images/blog/how-much-do-quality-mudroom-lockers-cost-a-comprehensive-price-breakdown.png"
   alt: "A luxurious, navy blue custom mudroom locker system with shiplap backing, oak bench seating, and brass hardware in a bright entryway."
 tags: 
   - Mudroom Ideas
@@ -19,7 +20,7 @@ keywords:
   - DIY mudroom lockers
   - entryway storage solutions
   - built-in mudroom cost
-canonical: "https://entrywaystorage.com/posts/how-much-do-quality-mudroom-lockers-cost-a-comprehensive-price-breakdown"
+canonical: "https://www.entrywaystorage.com/posts/how-much-do-quality-mudroom-lockers-cost-a-comprehensive-price-breakdown"
 ---
 
 The modern home has evolved, and with it, the demand for organized, functional entryways has skyrocketed. Gone are the days when a simple coat rack and a rubber mat sufficed. Today, the mudroom is the command center of the home—the "drop zone" where the chaos of the outside world is contained before it spills into the living room. At the heart of this organization lies the mudroom locker system.
@@ -44,7 +45,7 @@ Here is a quick breakdown of what you can expect to pay for a standard 6-to-8-fo
 
 Understanding where your budget sits on this spectrum is the first step toward a successful project. However, the sticker price is only half the story. To truly understand the value, we must look at what influences these numbers.
 
-![A split comparison image showing a basic DIY plywood locker on the left and a high-end finished custom cabinet on the right to illustrate cost differences.](/images/blog/how-much-do-quality-mudroom-lockers-cost-a-comprehensive-price-breakdown-1.png)
+![A split comparison image showing a basic DIY plywood locker on the left and a high-end finished custom cabinet on the right to illustrate cost differences.](../../images/blog/how-much-do-quality-mudroom-lockers-cost-a-comprehensive-price-breakdown-1.png)
 
 ## Factors Influencing the Custom Mudroom Cabinetry Price
 
@@ -129,7 +130,7 @@ You can also hire a handyman or carpenter to install pre-fabricated units and ad
 *   **Labor Cost:** $500 - $1,000
 *   **Total:** ~$2,500
 
-![A semi-custom modular mudroom unit being installed, showing the assembly process and how individual units connect.](/images/blog/how-much-do-quality-mudroom-lockers-cost-a-comprehensive-price-breakdown-2.png)
+![A semi-custom modular mudroom unit being installed, showing the assembly process and how individual units connect.](../../images/blog/how-much-do-quality-mudroom-lockers-cost-a-comprehensive-price-breakdown-2.png)
 
 ## Option 3: Fully Custom Carpentry (The "Dream" Mudroom)
 
@@ -185,7 +186,7 @@ In real estate, "storage sells." A designated, built-in mudroom is a highly desi
 ### The "Sanity" Value
 Beyond finances, there is the quality of life ROI. How much is it worth to not trip over shoes every time you walk in the door? How much time is saved in the morning when kids know exactly where their backpacks are? For many parents, the reduction in daily stress and the organization of the "drop zone" makes the investment priceless.
 
-![A perfectly organized mudroom with labeled baskets, hanging coats, and boots tucked away, showcasing the result of the investment.](/images/blog/how-much-do-quality-mudroom-lockers-cost-a-comprehensive-price-breakdown-3.png)
+![A perfectly organized mudroom with labeled baskets, hanging coats, and boots tucked away, showcasing the result of the investment.](../../images/blog/how-much-do-quality-mudroom-lockers-cost-a-comprehensive-price-breakdown-3.png)
 
 ## A Step-by-Step Guide to Estimating Your Project
 

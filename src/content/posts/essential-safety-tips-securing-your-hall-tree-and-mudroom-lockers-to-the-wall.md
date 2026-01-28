@@ -1,10 +1,11 @@
 ---
 title: "Essential Safety Tips: Securing Your Hall Tree and Mudroom Lockers to the Wall"
-pubDate: 2026-01-28
+slug: "essential-safety-tips-securing-your-hall-tree-and-mudroom-lockers-to-the-wall"
+pubDate: "2026-01-28"
 description: "Discover critical methods to secure hall trees and mudroom lockers. Protect your home with expert tips on wall anchoring, anti-tip kits, and installation safety."
 author: "Content Bot"
 image:
-  url: "/images/blog/essential-safety-tips-securing-your-hall-tree-and-mudroom-lockers-to-the-wall.png"
+  url: "../../images/blog/essential-safety-tips-securing-your-hall-tree-and-mudroom-lockers-to-the-wall.png"
   alt: "A stylish mudroom with a large wooden hall tree and lockers being inspected for safety stability."
 tags: 
   - Home Safety
@@ -19,7 +20,7 @@ keywords:
   - secure mudroom lockers
   - furniture safety brackets
   - earthquake strapping
-canonical: "https://entrywaystorage.com/posts/essential-safety-tips-securing-your-hall-tree-and-mudroom-lockers-to-the-wall"
+canonical: "https://www.entrywaystorage.com/posts/essential-safety-tips-securing-your-hall-tree-and-mudroom-lockers-to-the-wall"
 ---
 
 The mudroom is often the unsung hero of the home. It is the transition zone, the drop spot, and the chaos container. We invest time and money into finding the perfect hall tree or installing custom mudroom lockers to organize coats, backpacks, and sports gear. However, amidst the excitement of organizing and decorating, one critical aspect is frequently overlooked: **safety**.
@@ -80,7 +81,7 @@ Sometimes, the furniture placement just doesn't align with a stud. In this case,
 ### Masonry (Brick or Concrete)
 If your mudroom is in a basement or a converted garage, you might be dealing with masonry. You will need a hammer drill, masonry bits, and concrete screws or sleeve anchors.
 
-![A detailed diagram showing the cross-section of a wall with a metal L-bracket securing a wooden hall tree to a wall stud, highlighting the screw penetration depth.](/images/blog/essential-safety-tips-securing-your-hall-tree-and-mudroom-lockers-to-the-wall-1.png)
+![A detailed diagram showing the cross-section of a wall with a metal L-bracket securing a wooden hall tree to a wall stud, highlighting the screw penetration depth.](../../images/blog/essential-safety-tips-securing-your-hall-tree-and-mudroom-lockers-to-the-wall-1.png)
 
 ## Step-by-Step Guide: Securing Your Hall Tree
 
@@ -126,7 +127,7 @@ If you have multiple locker units, you should "gang" them. This means screwing t
 ### Securing the "Bank"
 Even when ganged together, the entire bank of lockers must be anchored to the wall. Because the unit is now wider, you have a better chance of hitting multiple studs. Aim for at least two anchors for every three locker units.
 
-![A contractor installing safety brackets on a row of navy blue mudroom lockers, using a cordless drill and a level to ensure perfect alignment.](/images/blog/essential-safety-tips-securing-your-hall-tree-and-mudroom-lockers-to-the-wall-2.png)
+![A contractor installing safety brackets on a row of navy blue mudroom lockers, using a cordless drill and a level to ensure perfect alignment.](../../images/blog/essential-safety-tips-securing-your-hall-tree-and-mudroom-lockers-to-the-wall-2.png)
 
 ## Earthquake Zones: Specific Requirements
 
@@ -181,7 +182,7 @@ A common objection to **furniture safety brackets** is that they look ugly. Howe
 2.  **Inside Mounting:** For lockers, you can place the L-bracket inside the top cabinet, screwing through the back panel into the stud. This hides the hardware entirely inside the unit. *Note: Ensure the back panel is thick enough or reinforce it with a wood block.*
 3.  **Paint:** Paint the metal brackets the same color as your wall or the furniture to blend them in.
 
-![A parent and child organizing a safe mudroom, with the parent placing heavy boots on the bottom shelf and the child hanging a light scarf, illustrating safe weight distribution.](/images/blog/essential-safety-tips-securing-your-hall-tree-and-mudroom-lockers-to-the-wall-3.png)
+![A parent and child organizing a safe mudroom, with the parent placing heavy boots on the bottom shelf and the child hanging a light scarf, illustrating safe weight distribution.](../../images/blog/essential-safety-tips-securing-your-hall-tree-and-mudroom-lockers-to-the-wall-3.png)
 
 ## Maintenance: The Set-it-and-Forget-it Myth
 
