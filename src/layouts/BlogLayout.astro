@@ -36,6 +36,8 @@ const jsonLd = {
   title={frontmatter.title} 
   description={frontmatter.description} 
   image={postImageSrc}
+  canonicalURL={frontmatter.canonical}
+  keywords={frontmatter.keywords}
 >
   <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
   <section>

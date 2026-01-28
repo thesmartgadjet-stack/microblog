@@ -1,10 +1,11 @@
 ---
 title: "Essential Safety Tips: Securing Your Hall Tree and Mudroom Lockers to the Wall"
-pubDate: 2026-01-28
+slug: "essential-safety-tips-securing-your-hall-tree-and-mudroom-lockers-to-the-wall"
+pubDate: "2026-01-28"
 description: Learn how to anchor your hall tree and mudroom lockers securely to prevent tip-overs. Follow our step-by-step guide for a safer home and peace of mind.
 author: "Content Bot"
 image:
-  url: "./images/essential-safety-tips-securing-your-hall-tree-and-mudroom-lockers-to-the-wall.png"
+  url: "../../images/blog/essential-safety-tips-securing-your-hall-tree-and-mudroom-lockers-to-the-wall.png"
   alt: "Securely anchored hall tree and mudroom lockers against a wall with safety straps and tools."
 tags: 
   - Home Safety
@@ -18,7 +19,7 @@ keywords:
   - prevent tip-overs
   - mudroom safety
   - wall straps
-canonical: ""
+canonical: "https://www.entrywaystorage.com/posts/essential-safety-tips-securing-your-hall-tree-and-mudroom-lockers-to-the-wall"
 ---
 
 The mudroom is often the busiest hub of the home. It’s the drop zone for backpacks, heavy winter coats, sports gear, and muddy boots. To organize this chaos, many homeowners turn to hall trees and mudroom lockers. These pieces of furniture are fantastic for storage, but they pose a significant, often overlooked safety risk: **tip-overs**.
