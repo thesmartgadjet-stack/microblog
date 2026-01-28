@@ -3,14 +3,15 @@ import { Image } from "astro:assets";
 import BaseLayout from "@/layouts/BaseLayout.astro";
 import ShareButtons from "@/components/global/ShareButtons.astro";
 const { frontmatter } = Astro.props;
-const postImage = typeof frontmatter.image === 'string' ? frontmatter.image : frontmatter.image.url;
+const postImage = typeof frontmatter.image === 'string' ? frontmatter.image : (frontmatter.image.url || frontmatter.image);
+const postImageSrc = typeof postImage === 'string' ? postImage : postImage.src;
 
 const jsonLd = {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
   "headline": frontmatter.title,
   "description": frontmatter.description,
-  "image": new URL(postImage, Astro.site || Astro.url.origin).href,
+  "image": new URL(postImageSrc, Astro.site || Astro.url.origin).href,
   "datePublished": frontmatter.pubDate,
   "author": {
     "@type": "Person",
@@ -34,7 +35,7 @@ const jsonLd = {
 <BaseLayout 
   title={frontmatter.title} 
   description={frontmatter.description} 
-  image={postImage}
+  image={postImageSrc}
 >
   <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
   <section>
@@ -53,8 +54,8 @@ const jsonLd = {
         <Image
           width={1280}
           height={720}
-          src={typeof frontmatter.image === 'string' ? frontmatter.image : frontmatter.image.url}
-          alt={typeof frontmatter.image === 'string' ? frontmatter.title : frontmatter.image.alt}
+          src={postImage}
+          alt={typeof frontmatter.image === 'string' ? frontmatter.title : (frontmatter.image.alt || frontmatter.title)}
           loading="eager"
           decoding="async"
           class={`object-cover object-center w-full rounded-xl mt-4 ${frontmatter.imageAspectRatio ? `aspect-[${frontmatter.imageAspectRatio}]` : "aspect-12/7"}`}
@@ -70,7 +71,7 @@ const jsonLd = {
             }
           </p>
           <div class="flex flex-col md:items-end gap-3">
-            <ShareButtons title={frontmatter.title} image={postImage} />
+            <ShareButtons title={frontmatter.title} image={postImageSrc} />
             <div class="flex gap-3 text-accent-700">
               {
                 (frontmatter.tags || (frontmatter.category ? [frontmatter.category] : [])).map((tag) => (
@@ -91,7 +92,7 @@ const jsonLd = {
       <div class="mt-20 py-12 border-t border-base-200">
         <div class="flex flex-col items-center gap-6">
           <h4 class="text-lg font-display font-bold text-base-900">Enjoyed this guide? Share it!</h4>
-          <ShareButtons title={frontmatter.title} image={postImage} size="lg" />
+          <ShareButtons title={frontmatter.title} image={postImageSrc} size="lg" />
         </div>
       </div>
     </div>
