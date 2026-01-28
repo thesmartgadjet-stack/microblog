@@ -1,11 +1,10 @@
 ---
 title: "Why Every Home Needs a Mudroom Locker System (Even If You Don't Have a Mudroom)"
-slug: why-every-home-needs-a-mudroom-locker-system-even-if-you-dont-have-a-mudroom
-pubDate: 2026-01-26
+pubDate: "2026-01-26"
 description: "Transform your entryway with a functional mudroom locker system. Shop top-rated hall trees and storage benches to organize coats, shoes, and clutter instantly."
 category: "Organization"
 author: "NativeWriter Expert"
-image: "https://picsum.photos/seed/why-every-home-needs-a-mudroom-locker-system-(even-if-you-don't-have-a-mudroom)/1200/630"
+image: "../../images/blog/no_mudroom_chaos.png"
 tags: 
   - "Entryway Storage"
   - "Mudroom Lockers"
@@ -159,3 +158,6 @@ A: Dust loves texture. The beadboard on the Crosley and the detailing on the Bus
 
 Q: Can I combine two of these units side-by-side?
 A: Absolutely. This is a designer trick to create a "grand" mudroom look. Two Prepac or Bush units side-by-side can cover a large wall. If you do this, clamp the units together and screw them to each other (through the side panels) as well as to the wall. This eliminates the gap between them and makes them look like one massive, custom piece of millwork.
+
+
+

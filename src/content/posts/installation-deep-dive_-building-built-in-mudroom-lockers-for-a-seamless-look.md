@@ -1,20 +1,16 @@
 ---
-{
-  "title": "Installation Deep Dive: Building Built-In Mudroom Lockers for a Seamless Look",
-  "slug": "installation-deep-dive-building-builtin-mudroom-lockers-for-a-seamless-look",
-  "pubDate": "2026-01-26",
-  "description": "Transform your chaotic entryway into a streamlined drop zone. Discover how to build custom-look mudroom lockers and shop the best Amazon finds for a seamless finish.",
-  "category": "Home Improvement",
-  "author": "NativeWriter Expert",
-  "image": "https://picsum.photos/seed/installation-deep-dive_-building-built-in-mudroom-lockers-for-a-seamless-look/1200/630",
-  "tags": [
-    "mudroom",
-    "DIY",
-    "organization",
-    "entryway",
-    "storage"
-  ]
-}
+title: "Installation Deep Dive: Building Built-In Mudroom Lockers for a Seamless Look"
+pubDate: "2026-01-26"
+description: "Transform your chaotic entryway into a streamlined drop zone. Discover how to build custom-look mudroom lockers and shop the best Amazon finds for a seamless finish."
+category: "Home Improvement"
+author: "NativeWriter Expert"
+image: "../../images/blog/hall_tree_measurements.png"
+tags:
+  - "mudroom"
+  - "DIY"
+  - "organization"
+  - "entryway"
+  - "storage"
 ---
 # Installation Deep Dive: Building Built-In Mudroom Lockers for a Seamless Look
 
@@ -131,3 +127,6 @@ A: Rechargeable, motion-sensor LED light bars are fantastic. They are thin enoug
 
 Q: Can I use this setup in a garage instead of an interior mudroom?
 A: The metal frame and heavy-duty hooks are perfect for a garage, but be cautious with the engineered wood and natural baskets if your garage is not climate-controlled. High humidity fluctuations can cause particleboard to swell and natural baskets to mildew. If installing in a garage, consider sealing the wood components with a clear polyurethane and swapping the hyacinth baskets for wire or plastic bins.
+
+
+

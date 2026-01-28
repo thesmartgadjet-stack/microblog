@@ -66,3 +66,7 @@ image: "https://picsum.photos/seed/choosing-the-right-color-and-finish-for-your-
 </div></p><p style="margin-bottom: 18px;">Your entryway is the prologue to your life�s story. Choose a finish that writes a beautiful opening line. Whether it is the weathered honesty of rustic wood or the disciplined elegance of matte metal, let your hall tree be more than a coat rack. Let it be a welcome home.</p></div>
 </div>
 
+
+
+
+

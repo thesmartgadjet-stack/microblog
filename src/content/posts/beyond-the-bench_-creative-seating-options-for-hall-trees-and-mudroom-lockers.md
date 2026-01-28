@@ -5,7 +5,7 @@ pubDate: "Thu, 22 Jan 2026 11:30:53 GMT"
 description: "A detailed guide about Beyond the Bench: Creative Seating Options for Hall Trees and Mudroom Lockers"
 category: "Entryway"
 author: "ExpertWriter"
-image: "/images/blog/creative_mudroom_seating.png"
+image: "../../images/blog/creative_mudroom_seating.png"
 ---
 # Beyond the Bench: Creative Seating Options for Hall Trees and Mudroom Lockers
 
@@ -73,4 +73,8 @@ image: "/images/blog/creative_mudroom_seating.png"
 <a href="https://www.amazon.com/dp/B00L89T800/?tag=marathonnewcastle-20" target="_blank" style="background: #db2777; color: #ffffff; padding: 12px 30px; border-radius: 8px; text-decoration: none; font-weight: 700;">Explore Current Price</a>
 </div></p><p style="margin-bottom: 18px;">Your entryway is the prologue to the story of your home. Make sure it sets the right tone. Choose seating that invites you to pause, take a breath, and truly arrive.</p></div>
 </div>
+
+
+
+
 

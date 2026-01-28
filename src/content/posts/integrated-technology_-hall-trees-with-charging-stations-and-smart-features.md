@@ -1,20 +1,16 @@
 ---
-{
-  "title": "Integrated Technology: Hall Trees with Charging Stations and Smart Features",
-  "slug": "integrated-technology-hall-trees-with-charging-stations-and-smart-features",
-  "pubDate": "2026-01-26",
-  "description": "Upgrade your entryway with a smart hall tree featuring built-in charging stations and LED lighting. Organize coats, shoes, and devices in one stylish spot.",
-  "category": "Smart Home Furniture",
-  "author": "NativeWriter Expert",
-  "image": "/images/blog/smart_hall_tree.png",
-  "tags": [
-    "entryway",
-    "furniture",
-    "organization",
-    "smart home",
-    "charging station"
-  ]
-}
+title: "Integrated Technology: Hall Trees with Charging Stations and Smart Features"
+pubDate: "2026-01-26"
+description: "Upgrade your entryway with a smart hall tree featuring built-in charging stations and LED lighting. Organize coats, shoes, and devices in one stylish spot."
+category: "Smart Home Furniture"
+author: "NativeWriter Expert"
+image: "../../images/blog/smart_hall_tree.png"
+tags:
+  - "entryway"
+  - "furniture"
+  - "organization"
+  - "smart home"
+  - "charging station"
 ---
 # Integrated Technology: Hall Trees with Charging Stations and Smart Features
 
@@ -146,3 +142,6 @@ Dust accumulates rapidly in entryways. To clean the charging recesses or shelves
 
 8. Does the "industrial" style fit in a more traditional home?
 The mix of wood and metal found in the HOOBRO and Rolanstar is surprisingly versatile. It acts as a neutral "transitional" style. If your home is very traditional, you can soften the look of these units by using wicker or woven baskets in the shelving areas and using high-quality wooden hangers rather than plastic ones. The accessories you place on the hall tree define its character as much as the frame itself.
+
+
+

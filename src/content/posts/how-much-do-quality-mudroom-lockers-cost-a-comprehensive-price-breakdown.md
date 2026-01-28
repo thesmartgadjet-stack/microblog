@@ -187,3 +187,6 @@ A: Yes. Non-negotiable. Even if the unit feels heavy and stable, the act of hang
 
 Q: How much should I budget for installation if I can’t DIY?
 A: For a "flat-pack" piece of furniture (Tier 1 or 2), expect to pay a handyman or assembly service (like TaskRabbit) between $80 and $150 per unit. It usually takes a pro about 60-90 minutes to assemble a complex hall tree.
+
+
+

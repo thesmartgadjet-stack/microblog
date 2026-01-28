@@ -171,3 +171,7 @@ Q: Can I mix and match these styles?
 A: Proceed with caution. Mixing the Shaker-style wood of the Prepac with the industrial metal of the Novogratz can look disjointed unless you are an experienced designer. It is usually safer to pick one "storage language" for the room and stick to it. However, you can mix the Yamazaki rack with either, as its minimal profile allows it to fade into the background as a supporting character.
 
 
+
+
+
+

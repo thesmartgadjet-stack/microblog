@@ -157,3 +157,7 @@ Q: My entryway is dark. Should I avoid dark wood hall trees?
 A: Generally, yes. A large, dark piece of furniture can suck the light out of a small, windowless hallway. In these spaces, opt for white, cream, or light grey finishes (like the Coastal or Farmhouse options), or open-frame metal designs (Industrial) that allow light to pass through them. If you love the dark wood look, ensure you have adequate overhead lighting or a nearby lamp to balance it.
 
 
+
+
+
+

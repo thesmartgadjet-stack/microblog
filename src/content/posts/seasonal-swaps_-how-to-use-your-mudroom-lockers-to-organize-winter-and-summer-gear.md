@@ -1,20 +1,16 @@
 ---
-{
-  "title": "Seasonal Swaps: How to Use Your Mudroom Lockers to Organize Winter and Summer Gear",
-  "slug": "seasonal-swaps-how-to-use-your-mudroom-lockers-to-organize-winter-and-summer-gear",
-  "pubDate": "2026-01-26",
-  "description": "Maximize your entryway's potential with these seasonal swap strategies. Learn how to organize winter and summer gear using lockers, bins, and smart storage.",
-  "category": "Home Organization",
-  "author": "NativeWriter Expert",
-  "image": "https://picsum.photos/seed/seasonal-swaps_-how-to-use-your-mudroom-lockers-to-organize-winter-and-summer-gear/1200/630",
-  "tags": [
-    "mudroom",
-    "organization",
-    "seasonal storage",
-    "home decor",
-    "storage solutions"
-  ]
-}
+title: "Seasonal Swaps: How to Use Your Mudroom Lockers to Organize Winter and Summer Gear"
+pubDate: "2026-01-26"
+description: "Maximize your entryway's potential with these seasonal swap strategies. Learn how to organize winter and summer gear using lockers, bins, and smart storage."
+category: "Home Organization"
+author: "NativeWriter Expert"
+image: "../../images/blog/seasonal_hall_tree_rotation.png"
+tags:
+  - "mudroom"
+  - "organization"
+  - "seasonal storage"
+  - "home decor"
+  - "storage solutions"
 ---
 # Seasonal Swaps: How to Use Your Mudroom Lockers to Organize Winter and Summer Gear
 
@@ -141,3 +137,6 @@ A: You can, but only if they are impeccably clean. Rubber soles can outgas and s
 
 Q: What about "weird" items like umbrellas and walking sticks?
 A: The Hall Tree is primarily for apparel. For tall, slender items, I suggest adding a tall ceramic vase or a dedicated umbrella stand next to the unit. Do not try to hang umbrellas on the coat hooks; they clutter the visual line and tangle with scarves. Keep the locker purely for what you wear.
+
+
+
