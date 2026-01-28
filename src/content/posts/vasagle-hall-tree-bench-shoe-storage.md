@@ -15,7 +15,6 @@ keywords:
   - Freestanding mudroom
   - Hallway organizer
   - Entryway furniture ideas
-canonical: /blog/vasagle-hall-tree-bench-shoe-storage
 ---
 
 ## Introduction: The Battle for a Tidy Entrance

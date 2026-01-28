@@ -15,7 +15,6 @@ keywords:
   - metal and wood furniture
   - small space coat rack
   - industrial chic decor
-canonical: /blog/vasagle-industrial-hall-tree-bench-shoe-storage
 ---
 
 # Industrial Chic Mudroom Lockers: Metal, Wood, and Functionality

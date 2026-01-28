@@ -14,7 +14,6 @@ keywords:
   - Home Storage Solutions
   - Seasonal Organization
   - DIY Hall Tree
-canonical: https://example.com/blog/ultimate-guide-to-hall-trees-and-mudroom-lockers
 tags:
   - "Ultimate Guide"
   - "Hall Trees"
