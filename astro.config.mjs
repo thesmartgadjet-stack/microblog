@@ -24,7 +24,10 @@ export default defineConfig({
     skipInline: false,
     drafts: true
   },
-  integrations: [sitemap(), mdx()],
+  integrations: [
+    sitemap(),
+    mdx()
+  ],
   image: {
     remotePatterns: [{ protocol: 'https', hostname: 'picsum.photos' }],
   },
