@@ -3,7 +3,7 @@ import "../styles/global.css";
 import { AstroSeo } from "@astrolib/seo";
 
 const {
-  title = "Entryway Essentials | Shoe Storage & Hallway Design",
+  title = "Entryway Storage | Shoe Storage & Hallway Design",
   description = "A high-performance SEO blog focusing on entryway organization, shoe storage solutions, and hallway design for small spaces.",
   image = "/og-image.jpg",
   canonicalURL = Astro.url.href,
@@ -13,7 +13,7 @@ const {
 const defaultKeywords = "entryway organization, shoe storage, hallway design, hall tree guide, mudroom lockers, small space storage, furniture measurements, woodworking DIY, entryway charm, home organization, coat rack ideas";
 const combinedKeywords = keywords && keywords.length > 0 ? keywords.join(", ") : defaultKeywords;
 
-const siteTitle = title === "Entryway Essentials | Shoe Storage & Hallway Design" ? title : `${title} | Entryway Essentials`;
+const siteTitle = title === "Entryway Storage | Shoe Storage & Hallway Design" ? title : `${title} | Entryway Storage`;
 ---
 
 <AstroSeo
@@ -33,7 +33,7 @@ const siteTitle = title === "Entryway Essentials | Shoe Storage & Hallway Design
         type: "image/jpeg",
       },
     ],
-    site_name: "Entryway Essentials",
+    site_name: "Entryway Storage",
     type: "website",
     locale: "en_US",
   }}
@@ -51,7 +51,7 @@ const siteTitle = title === "Entryway Essentials | Shoe Storage & Hallway Design
 <title>{siteTitle}</title>
 <meta name="description" content={description} />
 <meta name="keywords" content={combinedKeywords} />
-<meta name="author" content="Entryway Essentials" />
+<meta name="author" content="Entryway Storage" />
 
 <!-- Favicons -->
 <link rel="icon" href="/logo-icon.svg" type="image/svg+xml" />
