@@ -87,7 +87,7 @@ These baskets allow you to categorize your entryway. Use one for "Out the Door" 
 
 ### Product 3: Liberty Hardware Heavy Duty Coat and Hat Hook (6-Pack)
 
-![Liberty Hardware Hooks](../../images/blog/customizing-your-hall-tree-adding-personal-touches-and-accessories-product-3.webp)
+![Liberty Hardware Hooks](../../images/blog/deep-dive-into-hooks-selecting-the-best-hardware-for-your-hall-tree-and-mudroom-lockers-product-3.webp)
 
 If you are looking to upgrade a basic hall tree or a DIY build, the **Liberty Hardware Heavy Duty Hooks** are the gold standard. Finished in a sophisticated Flat Black or Champagne Bronze, these hooks add an immediate sense of "custom cabinetry" to any piece of furniture.
 
