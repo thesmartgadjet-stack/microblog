@@ -5,8 +5,8 @@ export async function get() {
   const posts = await getCollection('posts');
   return rss({
     title: 'Entryway Storage | Shoe Storage & Hallway Design',
-    description: 'A high-performance SEO blog focusing on entryway organization, shoe storage solutions, and hallway design for small spaces.',
-    site: 'https://my-blog-site.netlify.app',
+    description: 'Your ultimate guide to entryway organization, shoe storage solutions, and hallway design for creating a welcoming home.',
+    site: 'https://www.entrywaystorage.com',
     items: posts.map((post) => ({
       title: post.data.title,
       pubDate: post.data.pubDate,
