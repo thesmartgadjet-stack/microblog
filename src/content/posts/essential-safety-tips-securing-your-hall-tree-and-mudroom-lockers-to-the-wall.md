@@ -27,7 +27,7 @@ The mudroom is often the unsung hero of the home. It is the transition zone, the
 
 Large entryway furniture pieces like hall trees and lockers are inherently top-heavy. When you load them with winter coats, hang heavy bags on high hooks, or place storage baskets on the top shelves, the center of gravity shifts dangerously upward. For households with children, pets, or those living in seismic zones, an unsecured hall tree is a significant hazard waiting to happen.
 
-According to the U.S. Consumer Product Safety Commission (CPSC), a child is sent to the emergency room every 60 minutes due to falling furniture or TVs. This is a sobering statistic that highlights why proper installation is not just a recommendationâ€”it is a necessity.
+According to the U.S. Consumer Product Safety Commission (CPSC), a child is sent to the emergency room every 60 minutes due to falling furniture or TVs. This is a sobering statistic that highlights why proper installation is not just a recommendation—it is a necessity.
 
 In this comprehensive guide, we will walk you through everything you need to know about **wall anchoring hall trees** and securing mudroom lockers. We will cover the tools you need, the best anchoring methods for different wall types, and provide a step-by-step tutorial to ensure your entryway is as safe as it is stylish.
 
@@ -85,7 +85,7 @@ If your mudroom is in a basement or a converted garage, you might be dealing wit
 
 ## Step-by-Step Guide: Securing Your Hall Tree
 
-Now, letâ€™s get to the work. Follow this process to ensure a secure hold using **anti-tip furniture straps** or brackets.
+Now, let's get to the work. Follow this process to ensure a secure hold using **anti-tip furniture straps** or brackets.
 
 ### Step 1: Position and Level
 Place your hall tree exactly where you want it. Use your level to check both the horizontal surface (the bench) and the vertical sides. If you have thick baseboards preventing the unit from sitting flush against the wall, you have two options:
@@ -111,7 +111,7 @@ Align the wall bracket with your stud marks. Drill a pilot hole into the stud (u
 Push the furniture back into place. Connect the furniture bracket to the wall bracket using the strap or connecting pin. Tighten the strap until there is no slack, but do not overtighten to the point where you are lifting the front legs off the floor.
 
 ### Step 6: The "Shake Test"
-Once secured, give the furniture a firm shake. Try to pull the top forward. It should move slightly with the strap tension but should not tip. If the wall anchor pulls out, you missed the studâ€”start over.
+Once secured, give the furniture a firm shake. Try to pull the top forward. It should move slightly with the strap tension but should not tip. If the wall anchor pulls out, you missed the stud—start over.
 
 ## Special Considerations for Mudroom Lockers
 
@@ -201,7 +201,7 @@ If you move the furniture to paint or reorganize, you **must** re-anchor it imme
 
 Creating a beautiful, organized entryway with a hall tree or mudroom lockers transforms the functionality of your home. It streamlines your morning routine and keeps clutter at bay. But functionality should never come at the cost of safety.
 
-The time investment to **secure mudroom lockers** and anchor your hall tree is minimalâ€”usually less than 30 minutes. The financial cost is negligibleâ€”less than $20 for high-quality hardware. Yet, the peace of mind it provides is priceless. Whether itâ€™s protecting a climbing toddler, a clumsy pet, or your family during a seismic event, proper wall anchoring is the most critical step in your entryway installation.
+The time investment to **secure mudroom lockers** and anchor your hall tree is minimal—usually less than 30 minutes. The financial cost is negligible—less than $20 for high-quality hardware. Yet, the peace of mind it provides is priceless. Whether it's protecting a climbing toddler, a clumsy pet, or your family during a seismic event, proper wall anchoring is the most critical step in your entryway installation.
 
 Don't wait for a close call to take action. Check your entryway furniture today. If it wiggles, anchor it. Your home should be your sanctuary, and safety is the foundation of that comfort.
 
@@ -219,3 +219,4 @@ A: Use at least two anchors for any piece of furniture. For wider banks of locke
 
 **Q: Does drilling into the wall ruin the resale value of my home?**
 A: No. Small screw holes are easily patched and painted. A safe home is far more valuable, and leaving anchors in place can actually be a selling point for safety-conscious buyers.
+

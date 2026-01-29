@@ -1,4 +1,4 @@
----
+﻿---
 title: "Installation Deep Dive: Building Built-In Mudroom Lockers for a Seamless Look"
 slug: "installation-deep-dive-building-built-in-mudroom-lockers-for-a-seamless-look"
 pubDate: "2026-01-28"
@@ -61,7 +61,7 @@ If you want hidden joints that are incredibly strong and easy to assemble, you c
 
 You cannot simply push a cabinet against a wall and call it "built-in." To achieve that seamless integration, you must remove existing obstacles.
 
-1.  **Remove Baseboards and Crown Molding:** Carefully score the caulk line with a utility knife to prevent peeling paint. Pry the trim off gently. You may be able to reuse it, but often it’s easier to buy new trim to wrap around the new unit.
+1.  **Remove Baseboards and Crown Molding:** Carefully score the caulk line with a utility knife to prevent peeling paint. Pry the trim off gently. You may be able to reuse it, but often it's easier to buy new trim to wrap around the new unit.
 2.  **Locate and Mark Studs:** Use a stud finder and mark every stud along the wall with blue painter's tape. You will need to anchor the unit securely to the wall framing to prevent tipping.
 3.  **Check for Electrical:** If there are outlets where the lockers will go, you must plan to either move them or extend the box through the back panel of your lockers.
 
@@ -173,3 +173,4 @@ By focusing on the details—leveling the base, using face frames for a chunky l
 Ready to tackle more home organization projects? Check out our guide on [Maximizing Small Entryways](/posts/maximizing-small-entryways-creative-solutions) or learn about [Choosing the Right Wood for DIY Furniture](/posts/choosing-the-right-wood-for-diy-entryway-furniture).
 
 Remember, the goal isn't just storage; it's creating a space that welcomes you home with order and style. Happy building!
+

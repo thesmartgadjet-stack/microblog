@@ -29,7 +29,7 @@ The entryway is the handshake of your home. It is the first thing guests see whe
 
 When you don't have the luxury of a sprawling mudroom, you have to get creative. Enter the unsung hero of **small entryway storage**: the **corner hall tree**.
 
-While traditional hall trees demand a significant amount of flat wall spaceâ€”a luxury often unavailable in narrow corridorsâ€”corner units are designed to conquer the "dead space" where two walls meet. In this comprehensive guide, we will explore how utilizing a **corner hall tree** can revolutionize your home organization, maximize your style, and turn a cramped corner into a functional command center.
+While traditional hall trees demand a significant amount of flat wall space—a luxury often unavailable in narrow corridors—corner units are designed to conquer the "dead space" where two walls meet. In this comprehensive guide, we will explore how utilizing a **corner hall tree** can revolutionize your home organization, maximize your style, and turn a cramped corner into a functional command center.
 
 ## The Psychology of the Corner: Reclaiming Dead Space
 
@@ -70,7 +70,7 @@ Before you click "Add to Cart," you must wield your tape measure with precision.
 
 ### The Baseboard Obstacle
 Most walls have baseboards. Most furniture has straight legs. If your **corner hall tree** doesn't have a cutout for baseboards (and most don't), there will be a gap between the unit and the wall. You have two options:
-1.  **Accept the Gap:** Itâ€™s usually negligible, but ensure the unit is anchored to the wall for safety.
+1.  **Accept the Gap:** It's usually negligible, but ensure the unit is anchored to the wall for safety.
 2.  **Leg Placement:** Look for units where the rear leg is inset, allowing the top of the unit to touch the wall.
 
 ### The Radius and Reach
@@ -105,7 +105,7 @@ The bottom of a corner tree can quickly become a shoe mountain. Because the spac
 A **corner hall tree** is functional, but it is also a piece of decor. Because it is in the entryway, it sets the tone for the rest of your home. Here is how to style it so it looks curated, not chaotic.
 
 ### Soften the Edges
-Hall trees are full of hard lines and angles. Soften the look by adding textiles. A couple of throw pillows on the bench (if itâ€™s large enough) or a textured throw blanket draped over the side can make the spot look inviting. If the bench is wood, consider a custom-made cushion to add comfort and color.
+Hall trees are full of hard lines and angles. Soften the look by adding textiles. A couple of throw pillows on the bench (if it's large enough) or a textured throw blanket draped over the side can make the spot look inviting. If the bench is wood, consider a custom-made cushion to add comfort and color.
 
 ### Bring in the Greenery
 Plants breathe life into small spaces. The top shelf of a hall tree is often too high for daily storage, making it the perfect home for a trailing plant like a Pothos or Philodendron. The vines cascading down the side of the unit add a beautiful organic element that contrasts with the structure of the furniture.
@@ -135,7 +135,7 @@ Should you buy a pre-made unit or attempt to build one?
 *   Limited color options.
 
 ### Going DIY
-For the handy homeowner, building a custom corner unit allows you to take the storage all the way to the ceiling. You can customize the molding to match your homeâ€™s architecture. However, corner joinery can be complex. Angles are rarely a perfect 90 degrees in older homes, leading to frustration during the build. Unless you are experienced with carpentry, a high-quality pre-made unit is usually the safer, more cost-effective bet. If you are interested in smaller DIY projects, check out our post on [DIY Wall Hooks for Small Spaces](/posts/diy-wall-hooks-small-spaces).
+For the handy homeowner, building a custom corner unit allows you to take the storage all the way to the ceiling. You can customize the molding to match your home's architecture. However, corner joinery can be complex. Angles are rarely a perfect 90 degrees in older homes, leading to frustration during the build. Unless you are experienced with carpentry, a high-quality pre-made unit is usually the safer, more cost-effective bet. If you are interested in smaller DIY projects, check out our post on [DIY Wall Hooks for Small Spaces](/posts/diy-wall-hooks-small-spaces).
 
 ![An eye-level view of the top shelf of a corner hall tree styled with a trailing potted plant, a vintage hat box, and a small framed welcome sign.](../../images/blog/maximizing-style-in-small-spaces-corner-hall-tree-solutions-3.webp)
 
@@ -151,4 +151,7 @@ To ensure your **space-saving furniture** lasts for years, regular maintenance i
 
 Living small doesn't mean you have to sacrifice organization or style. By identifying the underused potential of your corners, you can transform a chaotic entryway into a streamlined, functional space. A **corner hall tree** offers the perfect blend of utility and aesthetics, proving that you don't need a grand foyer to have a grand entrance.
 
-Whether you opt for a rustic industrial rack or a sleek white farmhouse bench, the key is to measure twice, declutter often, and style with intention. Your entryway is the introduction to your lifeâ€”make sure it tells a story of order and welcome.
+Whether you opt for a rustic industrial rack or a sleek white farmhouse bench, the key is to measure twice, declutter often, and style with intention. Your entryway is the introduction to your life—make sure it tells a story of order and welcome.
+
+
+
