@@ -3,7 +3,7 @@ title: "Choosing Materials: Comparing Solid Wood Hall Trees to Particleboard Opt
 slug: choosing-materials-comparing-solid-wood-hall-trees-to-particleboard-options
 pubDate: "2026-01-29"
 description: "Deciding between solid wood and particleboard for your hall tree? Our expert guide compares durability, cost, and style to help you find the perfect entryway storage."
-author: "linda wise"
+author: "Linda Wise"
 image: 
   url: "../../images/blog/choosing-materials-comparing-solid-wood-hall-trees-to-particleboard-options.webp"
   alt: "A comparison image showing a high-quality solid wood hall tree next to a modern particleboard entryway unit"
@@ -72,7 +72,7 @@ Particleboard (also known as chipboard) is made by compressing wood chips, sawmi
 | **Assembly** | Often comes pre-assembled | Usually Flat-pack (DIY) |
 | **Price** | $$$ - $$$$ | $ - $$ |
 
-For more on organizing these spaces, check out our guide on [Maximizing Small Entryways](/posts/maximizing-small-entryways-storage-solutions).
+For more on organizing these spaces, check out our guide on [Maximizing Style in Small Spaces](/posts/maximizing-style-in-small-spaces-corner-hall-tree-solutions).
 
 ---
 

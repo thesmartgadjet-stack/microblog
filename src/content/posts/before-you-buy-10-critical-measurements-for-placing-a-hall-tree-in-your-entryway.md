@@ -3,7 +3,7 @@ title: "Before You Buy: 10 Critical Measurements for Placing a Hall Tree in Your
 slug: before-you-buy-10-critical-measurements-for-placing-a-hall-tree-in-your-entryway
 pubDate: "2026-01-29"
 description: "Master your entryway layout with our guide on the 10 critical measurements for hall trees. Ensure a perfect fit for your mudroom or foyer before you hit buy."
-author: "linda wise"
+author: "Linda Wise"
 image: 
   url: "../../images/blog/before-you-buy-10-critical-measurements-for-placing-a-hall-tree-in-your-entryway.webp"
   alt: "A perfectly measured hall tree in a modern entryway"
@@ -32,7 +32,6 @@ A hall tree that is too deep creates a "bottleneck" effect, making your home fee
 ### 1. Total Wall Width (The "Footprint" Limit)
 The most obvious measurement is the width of the wall where the hall tree will sit. However, don't just measure the wall from corner to corner. 
 *   **The Pro Tip:** Measure the "usable" width. This means accounting for any door casings or trim. If your wall is 60 inches wide but has a 4-inch door frame on one side, your maximum furniture width should ideally leave at least 2 inches of "breathing room" on either side to avoid a "crammed-in" look.
-*   **LSI Keyword Note:** Consider the *spatial clearance* needed for visual balance.
 
 ### 2. Ceiling Height vs. Unit Height
 Most modern hall trees range from 65 to 80 inches in height. If you have standard 8-foot (96-inch) ceilings, you are usually safe. However, if you are placing the unit in a basement entryway or a home with dropped ceilings, every inch counts.
@@ -60,7 +59,7 @@ Entryway walls are prime real estate for light switches, outlets, and HVAC retur
 ### 7. Bench Height for Ergonomics
 If you plan on sitting on the hall tree to put on shoes, the bench height is critical. 
 *   **Standard Comfort:** A standard chair height is 17 to 19 inches. If the hall tree bench is only 14 inches high, it may be difficult for older adults or those with knee issues to stand up. Conversely, if it's too high, children’s feet will dangle.
-*   **Internal Link Opportunity:** Check out our guide on [Entryway Bench Ergonomics](/posts/choosing-the-right-entryway-bench-height) for more details.
+*   **Pro Tip:** For more on ergonomics, check out our guide on [choosing the right mudroom locker depth](/posts/the-best-depth-for-mudroom-lockers-ensuring-practicality-without-sacrificing-space) for more details.
 
 ### 8. Hook Height and Accessibility
 Who is using this hall tree? 

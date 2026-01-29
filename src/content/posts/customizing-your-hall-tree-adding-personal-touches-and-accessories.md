@@ -3,7 +3,7 @@ title: "Customizing Your Hall Tree: Adding Personal Touches and Accessories"
 slug: customizing-your-hall-tree-adding-personal-touches-and-accessories
 pubDate: "2026-01-29"
 description: "Transform your entryway with our ultimate guide to customizing your hall tree. Discover expert tips on accessories, DIY upgrades, and functional styling for a unique home."
-author: "linda wise"
+author: "Linda Wise"
 image: 
   url: "../../images/blog/customizing-your-hall-tree-adding-personal-touches-and-accessories.webp"
   alt: "A beautifully customized hall tree in a modern farmhouse entryway"
@@ -142,7 +142,7 @@ If you haven't purchased your hall tree yet, keep these factors in mind to ensur
 3.  **Backing:** Look for a hall tree with a solid back panel rather than an open frame if you plan on adding wallpaper or mounting extra mirrors.
 4.  **Weight Capacity:** If you plan on sitting on the bench daily, look for a weight capacity of at least 250 lbs.
 
-For more insights on selecting the perfect foundation, check out our guide on [Choosing the Right Hall Tree for Your Space](/posts/choosing-the-right-hall-tree).
+For more insights on selecting the perfect foundation, check out our guide on [Choosing the Right Hall Tree for Your Space](/posts/the-ultimate-buying-guide-to-hall-trees-and-mudroom-lockers-in-2024).
 
 ## 7. Organizing by "Zone"
 
@@ -160,4 +160,4 @@ Customizing your hall tree is a rewarding project that blends interior design wi
 
 Remember, the goal is to create a space that makes your life easier. Whether it’s through a fresh coat of paint, a comfortable bench cushion, or perfectly labeled bins, every personal touch you add makes your home feel more welcoming and organized. Your entryway is the gateway to your life—make sure it reflects the very best of it.
 
-For more inspiration on entryway organization, don't miss our post on [Maximizing Small Entryway Storage](/posts/maximizing-small-entryway-storage).
+For more inspiration on entryway organization, don't miss our post on [Maximizing Small Entryway Storage](/posts/maximizing-style-in-small-spaces-corner-hall-tree-solutions).

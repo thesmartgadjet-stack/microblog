@@ -3,7 +3,7 @@ title: "Cleaning and Maintenance Guide for Wood and Metal Hall Trees"
 slug: cleaning-and-maintenance-guide-for-wood-and-metal-hall-trees
 pubDate: "2026-01-29"
 description: "Master the art of entryway furniture care with our ultimate guide. Learn expert tips for cleaning and maintaining wood and metal hall trees to ensure longevity."
-author: "linda wise"
+author: "Linda Wise"
 image: 
   url: "../../images/blog/cleaning-and-maintenance-guide-for-wood-and-metal-hall-trees.webp"
   alt: "A beautifully maintained wood and metal hall tree in a clean entryway"
@@ -154,7 +154,7 @@ Never hang a soaking-wet trench coat or umbrella directly against a wooden back 
 Avoid the "favorite hook" syndrome. We tend to hang everything on the middle hook because it’s convenient. This puts uneven stress on the frame. Distribute the weight evenly across all hooks to prevent the unit from leaning or the hooks from stripping.
 
 ### 3. Use Baskets
-To protect the wooden shelves from the abrasive soles of shoes, use **wicker or plastic baskets**. This keeps dirt and salt contained and prevents the wood from getting scratched by grit caught in boot treads. For more ideas on organizing, check out our post on [organizing small entryways](/posts/small-entryway-storage-ideas).
+To protect the wooden shelves from the abrasive soles of shoes, use **wicker or plastic baskets**. This keeps dirt and salt contained and prevents the wood from getting scratched by grit caught in boot treads. For more ideas on organizing, check out our post on [organizing small entryways](/posts/maximizing-style-in-small-spaces-corner-hall-tree-solutions).
 
 ## Buying Guide: What to Look for in a Low-Maintenance Hall Tree
 
@@ -177,4 +177,4 @@ A hall tree is the unsung hero of the home. It organizes our chaos and greets us
 
 Remember: **Moisture is the enemy, and consistency is the solution.** Keep it dry, keep it clean, and keep the hardware tight. Your entryway—and your guests—will thank you.
 
-For more tips on keeping your home organized and stylish, don't forget to browse our other guides on [entryway furniture selection](/posts/choosing-the-right-hall-tree).
+For more tips on keeping your home organized and stylish, don't forget to browse our other guides on [entryway furniture selection](/posts/the-ultimate-buying-guide-to-hall-trees-and-mudroom-lockers-in-2024).

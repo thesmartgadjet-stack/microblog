@@ -3,7 +3,7 @@ title: "Decoding Hall Tree Terminology: Bench, Hooks, Cubbies, and More"
 slug: decoding-hall-tree-terminology-bench-hooks-cubbies-and-more
 pubDate: "2026-01-29"
 description: "Master entryway organization by learning essential hall tree terminology. From cubbies to wainscoting, discover how to choose the perfect piece for your home."
-author: "linda wise"
+author: "Linda Wise"
 image: 
   url: "../../images/blog/decoding-hall-tree-terminology-bench-hooks-cubbies-and-more.webp"
   alt: "A beautifully organized hall tree in a modern farmhouse entryway"
@@ -163,7 +163,7 @@ Entryway floors are often uneven, especially if they are tiled. **Foot levelers*
 While the terms are often used interchangeably, there is a subtle distinction in the world of interior design.
 
 *   **Hall Tree:** Generally a single, freestanding piece of furniture. It is designed to be aesthetically pleasing and fit into a hallway or foyer without looking like a utility item.
-*   **Mudroom Locker:** Usually refers to a more "modular" or "built-in" look. Lockers are often wider and may feature vertical dividers that create individual "stalls" for each family member. If you have a dedicated mudroom, you might look for a [Modular Mudroom System](/posts/modular-mudroom-systems), whereas a hall tree is better for a multi-purpose entryway.
+*   **Mudroom Locker:** Usually refers to a more "modular" or "built-in" look. Lockers are often wider and may feature vertical dividers that create individual "stalls" for each family member. If you have a dedicated mudroom, you might look for a [Modular Mudroom System](/posts/designing-mudroom-lockers-for-families-assigning-zones-and-managing-clutter), whereas a hall tree is better for a multi-purpose entryway.
 
 ## Choosing the Right Material: Solid Wood vs. Engineered Wood
 
@@ -202,4 +202,4 @@ Decoding hall tree terminology is the first step toward a more organized, stress
 
 A hall tree is more than just a piece of furniture; it is a system that manages the transition between the outside world and your private sanctuary. Whether you choose the industrial ruggedness of the **VASAGLE**, the mission-style elegance of the **Bush Furniture Salinas**, or the classic storage of the **Crosley Brennan**, you are investing in the long-term order of your home.
 
-Don't let entryway chaos win. Use your new knowledge of hooks, cubbies, and benches to reclaim your foyer today. For more tips on maximizing small spaces, check out our guide on [Entryway Storage Solutions for Small Apartments](/posts/entryway-storage-solutions-small-apartments).
+Don't let entryway chaos win. Use your new knowledge of hooks, cubbies, and benches to reclaim your foyer today. For more tips on maximizing small spaces, check out our guide on [Entryway Storage Solutions for Small Apartments](/posts/rental-friendly-entryway-solutions-freestanding-hall-trees-that-dont-require-anchoring).

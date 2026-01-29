@@ -3,7 +3,7 @@ title: "Beyond the Bench: Creative Seating Options for Hall Trees and Mudroom Lo
 slug: beyond-the-bench-creative-seating-options-for-hall-trees-and-mudroom-lockers
 pubDate: "2026-01-29"
 description: "Discover innovative seating ideas for hall trees and mudroom lockers. From upholstered cushions to integrated ottomans, elevate your entryway storage today."
-author: "linda wise"
+author: "Linda Wise"
 image: 
   url: "../../images/blog/beyond-the-bench-creative-seating-options-for-hall-trees-and-mudroom-lockers.webp"
   alt: "A stylish mudroom featuring a modern hall tree with creative seating and organized storage"
@@ -36,7 +36,7 @@ When we talk about "creative seating," we aren't just talking about a different 
 *   **Maximize Vertical Space**: By integrating seating with lockers, you utilize the "dead space" that often exists in hallways.
 *   **Enhance Resale Value**: High-quality, built-in feeling furniture like a premium hall tree is a major selling point for modern homebuyers.
 
-If you are looking for more traditional inspiration, you might enjoy our guide on [Small Entryway Storage Ideas](/posts/small-entryway-storage-ideas) to see how to fit these concepts into tight quarters.
+If you are looking for more traditional inspiration, you might enjoy our guide on [Maximizing Style in Small Spaces](/posts/maximizing-style-in-small-spaces-corner-hall-tree-solutions) to see how to fit these concepts into tight quarters.
 
 ---
 
@@ -152,7 +152,7 @@ If you opt for a padded seat, the fabric choice is critical. Entryways are high-
 *   **Leather/Vegan Leather**: Easy to wipe down, but can be susceptible to scratches from sharp objects.
 *   **Removable Covers**: Ideally, any cushion should have a zippered cover that is machine washable.
 
-For more tips on maintaining your entryway furniture, check out our post on [Organizing Your Mudroom for Every Season](/posts/organizing-your-mudroom-for-every-season).
+For more tips on maintaining your entryway furniture, check out our post on [Seasonal Swaps for Mudroom Lockers](/posts/seasonal-swaps-how-to-use-your-mudroom-lockers-to-organize-winter-and-summer-gear).
 
 ## DIY Upgrades: How to "Creativize" a Standard Bench
 
@@ -187,4 +187,4 @@ Don't settle for a hard plank of wood. Give yourself a place to land at the end 
 | **VASAGLE Industrial** | Modern/Industrial | Built-in Padded Seat | Maximum Comfort |
 | **Crosley Brennan** | Transitional/Locker | Deep-set Nook Design | Large Mudrooms |
 
-For more inspiration on how to maximize your home's storage, explore our [Full Entryway Collection](/posts/).
+For more inspiration on how to maximize your home's storage, explore our [Full Entryway Collection](/posts).
